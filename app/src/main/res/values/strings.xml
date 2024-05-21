@@ -1,3 +1,4 @@
 <resources>
 	<string name="app_name">AppTray</string>
+    <string name="app_icon">app icon</string>
 </resources>
